@@ -1,5 +1,8 @@
-### Hi there 👋 my name is James, I am currently attending a Cyber bootcamp and am attending a University for Information Technology. My hobbies are playing video games,
-learning to code and spending time with my family.
+### Hi there 👋 my name is James, I am currently attending a Cyber bootcamp and am attending a University for Information Technology. 
+My hobbies are: 
+Playing video games 🎮
+Learning to code 👩‍💻 
+Spending time with my family 
 
 
 <!--
