@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋 my name is James, I am currently attending a Cyber bootcamp and am attending a University for Information Technology. My hobbies are playing video games,
+learning to code and spending time with my family.
+
 
 <!--
 **Jbyford89/Jbyford89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 Hi my name is James, I am currently attending a Cyber bootcamp and am attending a University for Information Technology.
 
 - 🔭 I’m currently working on building this page.
