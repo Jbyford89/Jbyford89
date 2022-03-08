@@ -1,4 +1,4 @@
-### Hi there 👋 my name is James, I am currently attending a Cyber bootcamp and I am attending a University to obtain my BS in Information Technology. 
+## Hi there 👋 my name is James, I am currently attending a CyberSecurity bootcamp as well as attending ASU to obtain my BS in Information Technology. 
 My hobbies are: 
 Playing video games 🎮
 Learning to code 👩‍💻 
@@ -16,8 +16,10 @@ Hi my name is James, I am currently attending a Cyber bootcamp and am attending 
 - Bash
 - Python
 - Network Fundamentals
+- ELK Stack
+- Docker/Ansible
 - 
-- I currently work as a Human Resource/Hiring Manager. Over the last 2 years I have built up my skills in programming with python, learning bash, and diving into cybersecurity. I am looking to take my CompTIA Sec+ exam to obtain my Sec+ certification within the next year. 
+- I currently work as a Human Resource/Hiring Manager. Over the last 2 years I have built my skills in programming with python, learning bash, and diving into cybersecurity. I am looking to take my CompTIA Sec+ exam to obtain my Security+ certification. 
 - 
 - Skills I have learned include but not limited to: 
 - Bash scripting, 
