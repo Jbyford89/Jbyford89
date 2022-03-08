@@ -1,4 +1,4 @@
-## Hi there 👋 my name is James, I am currently attending a CyberSecurity bootcamp as well as attending ASU to obtain my BS in Information Technology. 
+## Hi there 👋 my name is James, I am currently attending a CyberSecurity bootcamp and ASU to obtain my BS in Information Technology. 
 My hobbies are: 
 Playing video games 🎮
 Learning to code 👩‍💻 
