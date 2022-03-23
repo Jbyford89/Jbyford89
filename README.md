@@ -11,22 +11,22 @@ Spending time with my family
 
 - 🔭 I’m currently working on building this page.
 - 🌱 I’m currently learning:
-- Cybersecurity
-- Bash
-- Python
-- Network Fundamentals
-- ELK Stack
-- Docker/Ansible
-- 
+  - _Cybersecurity_
+  - _Bash_
+  - _Python_
+  - _Network Fundamentals_
+  - _ELK Stack_
+  - _Docker/Ansible_
+ 
 - I currently work as a Human Resource/Hiring Manager. Over the last 2 years I have built my skills in programming with python, learning bash, and diving into cybersecurity. I am looking to take my CompTIA Sec+ exam to obtain my Security+ certification. 
-- 
+ 
 - Skills I have learned include but not limited to: 
-- Bash scripting, 
-- user creation and how to remove users from a linux system, 
-- using john the ripper to crack a hashlist to obtain passwords, 
-- creating groups on a linux system, adding and removing users from those said groups. 
-- I have also obtained skills to navigate through directories and files with various commands to find sensitive information.-
-- Privledge escalation, how to change and modify permissions for directories, files, groups, and users
+  - Bash scripting, 
+  - user creation and how to remove users from a linux system, 
+  - using john the ripper to crack a hashlist to obtain passwords, 
+  - creating groups on a linux system, adding and removing users from those said groups. 
+  - I have also obtained skills to navigate through directories and files with various commands to find sensitive information.-
+  - Privledge escalation, how to change and modify permissions for directories, files, groups, and users
 
 ---
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbyford89)](https://github.com/jbyford89/github-readme-stats)-->
