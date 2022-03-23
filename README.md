@@ -31,9 +31,9 @@ Spending time with my family
 ---
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbyford89)](https://github.com/jbyford89/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbyford89&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jbyford89&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jbyford89&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbyford89&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbyford89&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
