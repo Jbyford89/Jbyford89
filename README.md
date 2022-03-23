@@ -1,4 +1,4 @@
-## Hi there 👋 my name is James, I am currently attending a CyberSecurity bootcamp and ASU to obtain my BS in Information Technology. 
+![](https://github.com/Jbyford89/Jbyford89/blob/main/header.png)
 My hobbies are: 
 Playing video games 🎮
 Learning to code 👩‍💻 
